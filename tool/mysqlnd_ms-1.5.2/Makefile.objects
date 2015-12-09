@@ -1,0 +1,30 @@
+php_mysqlnd_ms.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/php_mysqlnd_ms.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/php_mysqlnd_ms.c -o php_mysqlnd_ms.lo 
+mysqlnd_ms.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms.c -o mysqlnd_ms.lo 
+mysqlnd_ms_switch.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_switch.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_switch.c -o mysqlnd_ms_switch.lo 
+mysqlnd_ms_config_json.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_config_json.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_config_json.c -o mysqlnd_ms_config_json.lo 
+mf_wcomp.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mf_wcomp.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mf_wcomp.c -o mf_wcomp.lo 
+mysqlnd_query_lexer.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_query_lexer.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_query_lexer.c -o mysqlnd_query_lexer.lo 
+mysqlnd_ms_filter_random.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_random.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_random.c -o mysqlnd_ms_filter_random.lo 
+mysqlnd_ms_filter_round_robin.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_round_robin.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_round_robin.c -o mysqlnd_ms_filter_round_robin.lo 
+mysqlnd_ms_filter_user.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_user.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_user.c -o mysqlnd_ms_filter_user.lo 
+mysqlnd_ms_filter_qos.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_qos.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_qos.c -o mysqlnd_ms_filter_qos.lo 
+mysqlnd_ms_lb_weights.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_lb_weights.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_lb_weights.c -o mysqlnd_ms_lb_weights.lo 
+mysqlnd_ms_filter_groups.lo: /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_groups.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/zhudongchang/WorkData/tool/mysqlnd_ms-1.5.2/mysqlnd_ms_filter_groups.c -o mysqlnd_ms_filter_groups.lo 
+$(phplibdir)/mysqlnd_ms.la: ./mysqlnd_ms.la
+	$(LIBTOOL) --mode=install cp ./mysqlnd_ms.la $(phplibdir)
+
+./mysqlnd_ms.la: $(shared_objects_mysqlnd_ms) $(MYSQLND_MS_SHARED_DEPENDENCIES)
+	$(LIBTOOL) --mode=link $(CC) $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS) $(LDFLAGS) -o $@ -export-dynamic -avoid-version -prefer-pic -module -rpath $(phplibdir) $(EXTRA_LDFLAGS) $(shared_objects_mysqlnd_ms) $(MYSQLND_MS_SHARED_LIBADD)
+

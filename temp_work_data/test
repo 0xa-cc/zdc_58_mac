@@ -1,0 +1,12 @@
+<?php
+$dir='./jj/bb';
+if(!is_dir($dir)){
+	mkdir($dir,0777,true) or die($dir.'create failed!');
+}
+die();
+$rsyncConfig =array(
+	'from' => 'shenma/che/* ',
+	'to'   => 'shenma/che/'
+	);
+$cmd="rsync --timeout=5 --bwlimit=10000  -a /data/ganji_feed/{$rsyncConfig['from']} 192.168.113.106::data_ganji_feed/{$rsyncConfig['to']}";
+echo shell_exec($cmd);

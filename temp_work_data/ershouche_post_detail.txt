@@ -1,0 +1,11 @@
+array (size=4)
+  'system_id' => string '1' (length=1)
+  'db_name' => string 'beijing' (length=7)
+  'table_name' => string 'vehicle_post' (length=12)
+  'post_id' => string '4059197' (length=7)
+
+
+SELECT * FROM `beijing`.`vehicle_post` where puid = 98608214
+
+
+这个需要写到 yz-ms-web-sim00 /server/www/ganji_v3/apps/feed 下， 相当于 data.ganji.com/feed

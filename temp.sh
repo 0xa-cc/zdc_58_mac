@@ -1,0 +1,12 @@
+brew install php56 \
+--without-snmp \
+--without-apache \
+--with-debug \
+--with-fpm \
+--with-intl \
+--with-homebrew-curl \
+--with-homebrew-libxslt \
+--with-homebrew-openssl \
+--with-imap \
+--with-mysql \
+--with-tidy
