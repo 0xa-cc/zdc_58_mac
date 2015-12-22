@@ -1,0 +1,9 @@
+wap
+/server/www/ganji/ganji_online/che/wap/app/common/WapCategoryListDispatch.class.php
+/server/www/ganji/ganji_online/mobile/mobile_base/apps/wap/config/ganji_wap.wml.rewrite.conf
+/che/wap/app/vehicle/ershouche/SeoChangWeiChiListPage.class.php
+
+pc
+/che/pc/app/vehicle/ershouche/SeoChangWeiChiErshoucheListPage.class.php
+/server/www/ganji/ganji_online/ganji_v5/webroot/ms_category_post.php
+/server/www/ganji_v3/config/ganji_v3.rewrite.conf
