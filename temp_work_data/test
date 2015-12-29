@@ -1,8 +1,6 @@
 <?php
-$rsyncConfig =array(
-	'from' => 'shenma/che/* ',
-	'to'   => 'shenma/che/',
-	);
-$cmd="rsync --timeout=5 --bwlimit=10000  -a /data/ganji_feed/{$rsyncConfig['from']} yz-ms-web-sim00.dns.ganji.com::data_ganji_feed/{$rsyncConfig['to']}";
-echo $cmd;die();
-echo shell_exec($cmd);
+$a1=array("a"=>"red","b"=>"green","c"=>"blue","d"=>"yellow");
+$a2=array("a"=>"purple","b"=>"orange");
+//print_r(array_splice($a1,0,2,$a2))
+array_splice($a1,1,0,$a2);
+print_r($a1);

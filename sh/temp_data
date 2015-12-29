@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="zh-CN" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="MobileOptimized" content="320">
+<meta name="HandheldFriendly" content="True">
+<meta name="Baiduspider" content="noarchive">
+
+<meta name="author" content="Techzero">
+<meta name="copyright" content="http://www.itechzero.com">
+<link rel="dns-prefetch" href="//www.itechzero.com">
+<link rel="dns-prefetch" href="//c.cnzz.com">
+<link rel="dns-prefetch" href="//z1.cnzz.com">
+<link rel="dns-prefetch" href="//s22.cnzz.com">
+<link rel="dns-prefetch" href="//cdn.css.net">
+<link rel="dns-prefetch" href="//p1.music.126.net">
+<link rel="dns-prefetch" href="//p2.music.126.net">
+<link rel="dns-prefetch" href="//p3.music.126.net">
+<link rel="dns-prefetch" href="//p4.music.126.net">
+<link rel="dns-prefetch" href="//nsclick.baidu.com">
+<link rel="dns-prefetch" href="//api.share.baidu.com">
+<link rel="dns-prefetch" href="//bdimg.share.baidu.com">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.itechzero.com/xmlrpc.php">
+<link rel="shortcut icon" href="http://www.itechzero.com/favicon.ico" type="image/x-icon" />
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="icon" sizes="196x196" href="http://www.itechzero.com/favicons/chrome-touch-icon-196x196.png">
+<link rel="icon" sizes="128x128" href="http://www.itechzero.com/favicons/chrome-touch-icon-128x128.png">
+<link rel="apple-touch-icon" href="http://www.itechzero.com/favicons/apple-touch-icon-256x256.png">
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Google 镜像站搜集 - Techzero</title>
+<meta name="description" content="Google 镜像站搜集"/>
+<meta name="robots" content="noodp"/>
+<meta name="keywords" content="Google,Google搜索,Google学术,Google镜像,谷歌,谷歌镜像,谷歌镜像站,Techzero"/>
+<link rel="canonical" href="http://www.itechzero.com/google-mirror-sites-collect.html" />
+<meta property="og:locale" content="zh_CN" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Google 镜像站搜集 - Techzero" />
+<meta property="og:description" content="Google 镜像站搜集" />
+<meta property="og:url" content="http://www.itechzero.com/google-mirror-sites-collect.html" />
+<meta property="og:site_name" content="Techzero" />
+<meta property="article:tag" content="Google" />
+<meta property="article:tag" content="原创" />
+<meta property="article:tag" content="镜像" />
+<meta property="article:section" content="搜集整理" />
+<meta property="article:published_time" content="2015-01-31T16:41:22+00:00" />
+<meta property="article:modified_time" content="2015-12-22T21:42:30+00:00" />
+<meta property="og:updated_time" content="2015-12-22T21:42:30+00:00" />
+<meta property="og:image" content="http://www.itechzero.com/wp-content/uploads/2015/01/google-mirror-sites-collect.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Techzero &raquo; Feed" href="http://www.itechzero.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Techzero &raquo; 评论Feed" href="http://www.itechzero.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Techzero &raquo; Google 镜像站搜集评论Feed" href="http://www.itechzero.com/google-mirror-sites-collect.html/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.itechzero.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://www.itechzero.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='color-bg-tag-cloud-css'  href='http://www.itechzero.com/wp-content/plugins/color-bg-tag-cloud/inc/color-bg-tag-cloud.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='simpler-style-css'  href='http://www.itechzero.com/wp-content/themes/Simpler/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nm-css'  href='http://www.itechzero.com/wp-content/plugins/netease-music/static/css/style.css?ver=1.9.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.itechzero.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.itechzero.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='http://www.itechzero.com/?p=976' />
+<style type="text/css" media="screen">body{position:relative}#dynamic-to-top{display:none;overflow:hidden;width:auto;z-index:90;position:fixed;bottom:80px;right:20px;top:auto;left:auto;font-family:sans-serif;font-size:1em;color:#fff;text-decoration:none;text-shadow:0 1px 0 #333;font-weight:bold;padding:17px 16px;border:0px solid #000;background:#111;-webkit-background-origin:border;-moz-background-origin:border;-icab-background-origin:border;-khtml-background-origin:border;-o-background-origin:border;background-origin:border;-webkit-background-clip:padding-box;-moz-background-clip:padding-box;-icab-background-clip:padding-box;-khtml-background-clip:padding-box;-o-background-clip:padding-box;background-clip:padding-box;-webkit-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 );-ms-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 );-moz-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 );-o-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 );-khtml-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 );-icab-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 );box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 );-webkit-border-radius:23px;-moz-border-radius:23px;-icab-border-radius:23px;-khtml-border-radius:23px;border-radius:23px}#dynamic-to-top:hover{background:#4d4dac;background:#08f -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 255, 255, 255, .2 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#08f -webkit-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#08f -khtml-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#08f -moz-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#08f -o-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#08f -ms-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#08f -icab-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#08f linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );cursor:pointer}#dynamic-to-top:active{background:#111;background:#111 -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 0, 0, 0, .3 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#111 -webkit-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -moz-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -khtml-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -o-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -ms-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -icab-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) )}#dynamic-to-top,#dynamic-to-top:active,#dynamic-to-top:focus,#dynamic-to-top:hover{outline:none}#dynamic-to-top span{display:block;overflow:hidden;width:14px;height:12px;background:url( http://www.itechzero.com/wp-content/plugins/dynamic-to-top/css/images/up.png )no-repeat center center}</style><!--[if lt IE 9]>
+<script src="http://cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
+<![endif]-->
+</head>
+
+<body class="single single-post postid-976 single-format-standard">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<a href="http://www.itechzero.com/" title="Techzero" rel="home"><div class="logo"></div></a>
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/">首页</a></li>
+<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-827"><a href="http://www.itechzero.com/project/">项目</a>
+<ul class="sub-menu">
+	<li id="menu-item-677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-677"><a href="http://www.itechzero.com/go/52dl/">52下载</a></li>
+	<li id="menu-item-1876" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1876"><a href="/google-mirror-sites-collect.html">谷歌镜像站</a></li>
+	<li id="menu-item-2672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2672"><a href="http://www.itechzero.com/go/hce/">HashcatEnigma</a></li>
+	<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1993"><a href="http://www.itechzero.com/go/msdn/">MSDN 我告诉你</a></li>
+</ul>
+</li>
+<li id="menu-item-431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-431"><a href="http://www.itechzero.com/technology/">技术</a>
+<ul class="sub-menu">
+	<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="http://www.itechzero.com/technology/coding/">编程</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://www.itechzero.com/technology/front-end/">前端</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://www.itechzero.com/technology/network/">网络</a></li>
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://www.itechzero.com/technology/pieces/">零碎</a></li>
+</ul>
+</li>
+<li id="menu-item-245" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-245"><a href="http://www.itechzero.com/share/">分享</a>
+<ul class="sub-menu">
+	<li id="menu-item-217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-217"><a href="http://www.itechzero.com/share/tools/">常用工具</a>
+	<ul class="sub-menu">
+		<li id="menu-item-753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-753"><a href="http://www.itechzero.com/translate/">词典翻译</a></li>
+		<li id="menu-item-765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="http://www.itechzero.com/unicode-convert/">Unicode 转换</a></li>
+	</ul>
+</li>
+	<li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278"><a href="http://www.itechzero.com/software/">软件集合</a></li>
+	<li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="http://www.itechzero.com/my-music/">我的音乐</a></li>
+	<li id="menu-item-985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-985"><a href="http://www.itechzero.com/share/lossless-music/">无损音乐</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://www.itechzero.com/paper/">文档书籍</a></li>
+</ul>
+</li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9"><a href="http://www.itechzero.com/other/">其他</a>
+<ul class="sub-menu">
+	<li id="menu-item-1605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1605"><a href="http://www.itechzero.com/go/taobao/">淘宝</a></li>
+	<li id="menu-item-1604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1604"><a href="http://www.itechzero.com/go/baiduyun/">百度云</a></li>
+</ul>
+</li>
+<li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8"><a href="http://www.itechzero.com/about/">关于</a>
+<ul class="sub-menu">
+	<li id="menu-item-1592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1592"><a href="http://www.itechzero.com/donate/">捐助</a></li>
+	<li id="menu-item-1092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1092"><a href="http://www.itechzero.com/guestbook/">留言板</a></li>
+</ul>
+</li>
+</ul></div>		</nav>
+		<div class="connect">
+			<form role="search" method="get" class="search-form" action="http://www.itechzero.com/" autocomplete="off">
+	<label>
+		<span class="screen-reader-text">搜索</span>
+		<input type="search" class="search-field" title="搜索" placeholder="搜点什么吧…" value="" name="s" />
+	</label>
+    <input type="submit" class="search-submit" value="搜索" />
+    </form>			<a class="zhihu" href="http://www.itechzero.com/go/zhihu/" target="_blank" title="知乎"></a>
+			<a class="weibo" href="http://www.itechzero.com/go/weibo/" target="_blank" title="微博"></a>
+			<a class="qqgroup" href="http://www.itechzero.com/go/qq-group-1/" target="_blank" title="QQ群"></a>
+		</div>
+		<div class="m-btns">
+			<a class="weibo" href="http://www.itechzero.com/go/weibo/" target="_blank" rel="nofollow" title="微博"></a>
+			<a class="search" title="搜索"></a>
+			<a class="menu-toggle" title="菜单">
+				<select class="m-menu" onchange="location.href=this.value">
+					<option disabled>导航菜单</option>
+				</select>
+			</a>		</div>
+		
+	</header>
+	<div id="content" class="site-content">	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+					<article id="post-976" class="post-976 post type-post status-publish format-standard has-post-thumbnail hentry category-collect tag-google tag-original tag-mirror">
+			<div class="entry-cover">
+			<img width="859" height="270" src="http://www.itechzero.com/wp-content/uploads/2015/01/google-mirror-sites-collect.png" class="attachment-post-thumbnail wp-post-image" alt="google-mirror-sites-collect" />		</div>
+		<header class="entry-header">
+		<h1 class="entry-title">
+			Google 镜像站搜集		</h1>
+		<div class="entry-meta">
+			<span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.itechzero.com/author/admin/">Techzero</a></span></span> • <span class="posted-on"><time class="entry-date published" datetime="2015-01-31T16:41:22+00:00">2015-01-31</time><time class="updated" datetime="2015-12-22T21:42:30+00:00">2015-12-22</time></span> • <span class="category-links"><a href="http://www.itechzero.com/share/collect/" rel="category tag">搜集整理</a></span> • <span class="postviews">1,412,565 次阅读</span> • <span class="comments-link"><a href="http://www.itechzero.com/google-mirror-sites-collect.html#comments" class="comments-link" >354 条评论</a></span>		</div>
+	</header>
+	<div class="entry-content">
+		<p>在特殊的地方和特殊的时间，流畅顺利的打开一个网站也变得如此艰难。</p>
+<p>2015.12.22 更新。</p>
+<p>以下是直接使用谷歌的方法，如需科学上网戳这里（<a href="http://www.itechzero.com/go/77jiasu/" target="_blank">VPN</a> | <a href="http://www.itechzero.com/go/socks163/" target="_blank">Shadowsocks</a>），VPN交流群53767380，本站交流群为334621215，也可 <a href="http://www.itechzero.com/go/google-group/" target="_blank">戳我加入谷歌邮件群组</a>（优先） 或 <a href="http://www.itechzero.com/go/163-mailing-list/" target="_blank">戳我加入邮件列表</a>。<span id="more-976"></span></p>
+<p>感谢评论区<a href="http://www.itechzero.com/go/wsgzao-github-io/" target="_blank">OX</a>同学整理提供的<a href="http://www.itechzero.com/go/wsgzao-github-iopostfq/" target="_blank">免费和付费的GFW翻墙方案小结</a>。</p>
+<p>本文将不定期维护更新，删除不能用的，增加新的可用网址。欢迎 Ctrl+D 收藏。<span style="color:red">列表中有些打不开可能是 <a href="http://www.itechzero.com/tag/dns-poisoning/" target="_blank">DNS污染</a> 的原因，可以参考 <a href="http://www.itechzero.com/dns-hijacking-dns-pollution-introduction-and-public-dns-recommend.html" target="_blank">DNS劫持 DNS污染 介绍 与 公共DNS 推荐</a> 一文尝试解决。</span>不要没有尝试就问，谢谢！</p>
+<p>以下镜像站分<strong>原版</strong>、<strong>非原版</strong>。非原版的界面有些改变，搜索结果<span style="color:red">在一定程度上可能</span>与原版相同。</p>
+<p><strong>如果您是以下镜像的作者，并且不希望您的镜像出现在以下列表中，可以<a href="http://www.itechzero.com/about/" target="_blank">联系我</a>移除链接。</strong></p>
+<p><strong style="color:#F72">如果您觉得本站的内容对您有帮助，可以<a href="http://www.itechzero.com/donate/" target="_blank">请我喝杯咖啡</a>哦^_^</strong></p>
+<h3>原版网页：<span style="font-size:14px;font-weight:initial">[最后检测：2015-12-22]</span></h3>
+<p><span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/www-guge-link/" target="_blank">https://www.guge.link/</a><br />
+<span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/www-guge-click/" target="_blank">https://www.guge.click/</a><br />
+<span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/www-fcczp-com/" target="_blank">http://www.fcczp.com/</a><br />
+<span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/www-souguge-com/" target="_blank">https://www.souguge.com/</a><br />
+<a href="http://www.itechzero.com/go/g-kvm-la/" target="_blank">http://g.kvm.la/</a><br />
+<a href="http://www.itechzero.com/go/guge-cytbj-com/" target="_blank">http://guge.cytbj.com/</a><br />
+<a href="http://www.itechzero.com/go/google-kainidi-cn/" target="_blank">http://google.kainidi.cn/</a><br />
+<a href="http://www.itechzero.com/go/google-xface-me/" target="_blank">https://google.xface.me/</a><br />
+<a href="http://www.itechzero.com/go/www-baidu-com-se/" target="_blank">http://www.baidu.com.se/</a><br />
+<a href="	http://www.itechzero.com/go/google-sidney-aldebaran-me/" target="_blank">http://google.sidney-aldebaran.me/</a></p>
+<h3>非原版网页：<span style="font-size:14px;font-weight:initial">[最后检测：2015-12-22]</span></h3>
+<p><span style="color:red">[推荐]</span>微搜：<a href="http://www.itechzero.com/go/www-wesou-org/" target="_blank">http://www.wesou.org/</a><br />
+<span style="color:red">[推荐]</span>谷歌363：<a href="http://www.itechzero.com/go/www-g363-com/" target="_blank">http://www.g363.com/</a><br />
+<span style="color:red">[推荐]</span>图灵搜索：<a href="http://www.itechzero.com/go/www-tulingss-com/" target="_blank">https://www.tulingss.com/</a><br />
+G搜索：<a href="http://www.itechzero.com/go/www-xpan-so/" target="_blank">http://www.xpan.so/</a><br />
+Ask：<a href="http://www.itechzero.com/go/home-tb-ask-com/" target="_blank">http://home.tb.ask.com/</a><br />
+AOL：<a href="http://www.itechzero.com/go/m-search-aol-com/" target="_blank">http://m.search.aol.com/</a><br />
+谷歌婊：<a href="http://www.itechzero.com/go/www-gugebiao-com/" target="_blank">http://www.gugebiao.com/</a><br />
+Avira：<a href="http://www.itechzero.com/go/safesearch-avira-com/" target="_blank">https://safesearch.avira.com/</a><br />
+丸子138：<a href="http://www.itechzero.com/go/wanzi138/" target="_blank">http://www.wanzi138.com/</a><br />
+谷粉138：<a href="http://www.itechzero.com/go/gufen138/" target="_blank">http://www.gufen138.com/</a><br />
+丸子163：<a href="http://www.itechzero.com/go/www-wanzi163-com/" target="_blank">http://www.wanzi163.com/</a><br />
+谷粉163：<a href="http://www.itechzero.com/go/www-gufen163-com/" target="_blank">http://www.gufen163.com/</a><br />
+Disconnect：<a href="http://www.itechzero.com/go/search-disconnect-me/" target="_blank">https://search.disconnect.me/</a></p>
+<h3>谷歌学术：<span style="font-size:14px;font-weight:initial">[最后检测：2015-12-22]</span></h3>
+<p><span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/googo-pw-scholar/" target="_blank">https://googo.pw/scholar/</a><br />
+<span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/guge-cytbj-com-scholar/" target="_blank">http://guge.cytbj.com/scholar/</a><br />
+<span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/www-souguge-com-scholar/" target="_blank">https://www.souguge.com/scholar/</a><br />
+<a href="http://www.itechzero.com/go/g-linkscholar-org/" target="_blank">http://g.linkscholar.org/</a><br />
+<a href="http://www.itechzero.com/go/www-roolin-com/" target="_blank">https://www.roolin.com/</a><br />
+<a href="http://www.itechzero.com/go/scholar-g363-com/" target="_blank">http://scholar.g363.com/</a><br />
+<a href="http://www.itechzero.com/go/www-scholarnet-cn/" target="_blank">http://www.scholarnet.cn/</a><br />
+<a href="http://www.itechzero.com/go/scholar-searcher-top/" target="_blank">http://scholar.searcher.top/</a></p>
+<h3>谷歌图片：<span style="font-size:14px;font-weight:initial">[最后检测：2015-12-22]</span></h3>
+<p><span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/googo-pw-imghp/" target="_blank">https://googo.pw/imghp</a><br />
+<span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/www-guge-link-imghp/" target="_blank">https://www.guge.link/imghp</a><br />
+<span style="color:red">[推荐]</span><a href="http://www.itechzero.com/go/www-souguge-com-imghp/" target="_blank">https://www.souguge.com/imghp</a><br />
+<a href="http://www.itechzero.com/go/guge-cytbj-com-imghp/" target="_blank">http://guge.cytbj.com/imghp</a><br />
+<a href="http://www.itechzero.com/go/www-fcczp-com-imghp/" target="_blank">http://www.fcczp.com/imghp</a><br />
+<a href="http://www.itechzero.com/go/www-guge-click-imghp/" target="_blank">https://www.guge.click/imghp</a><br />
+<a href="http://www.itechzero.com/go/google-xface-me-imghp/" target="_blank">https://google.xface.me/imghp</a></p>
+			</div>
+	<footer class="entry-footer">
+					<span class="tags-links">
+				<a href="http://www.itechzero.com/tag/google/" rel="tag">Google</a><a href="http://www.itechzero.com/tag/original/" rel="tag">原创</a><a href="http://www.itechzero.com/tag/mirror/" rel="tag">镜像</a>			</span>
+						<div class="share">
+			<div class="bdsharebuttonbox bdshare-button-style0-24" data-bd-bind="1443431155506">
+				<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+				<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+				<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+				<a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+				<a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a>
+				<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+				<a href="#" class="bds_more" data-cmd="more"></a>
+			</div>
+			<script>window._bd_share_config={"common":{"bdSnsKey":{"tsina":"2456395085"},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"http://www.itechzero.com/wp-content/uploads/2015/01/google-mirror-sites-collect.png","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+		</div>
+		<div class="copyright">
+			本站文章除注明转载外均为原创，版权为<a href="http://www.itechzero.com/" target="_blank">Techzero</a>所有，转载请务必注明原文链接。<br>
+			本文固定链接：<a href="http://www.itechzero.com/google-mirror-sites-collect.html" target="_blank">http://www.itechzero.com/google-mirror-sites-collect.html</a>。
+		</div>
+		<div class='yarpp-related'>
+<h3>你可能还喜欢</h3><ul>
+<li><a href="http://www.itechzero.com/chinas-open-source-mirror-sites-collect.html" rel="bookmark" title="中国开源镜像站搜集">中国开源镜像站搜集 </a></li>
+<li><a href="http://www.itechzero.com/msdn-itellyou-mirror.html" rel="bookmark" title="MSDN 我告诉你 镜像站">MSDN 我告诉你 镜像站 </a></li>
+</ul>
+</div>
+	</footer>
+</article>				<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">文章导航</h1>
+		<div class="nav-links">
+			<span class="nav-previous"><a href="http://www.itechzero.com/chrome-extension-onetab-optimized-version.html" rel="prev"><span class="arrow">‹</span>上一篇</a></span><span class="nav-dot"> • </span><span class="nav-next"><a href="http://www.itechzero.com/flac-sub-track-jay-album-ai-you-bu-cuo-o.html" rel="next">下一篇<span class="arrow">›</span></a></span>		</div>
+	</nav>
+				<div id="comments" class="comments-area">
+				<h2 class="comments-title">
+			354 条评论		</h2>
+		<ol class="comment-list">
+					<li id="comment-4621" class="comment even thread-even depth-1">
+			<article id="div-comment-4621" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/2ff15aa7c32dd618090b2ac78e0bb0e5?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/2ff15aa7c32dd618090b2ac78e0bb0e5?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">你好</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4621">
+							<time datetime="2015-12-23T20:45:06+00:00">
+								2015/12/23 20:45							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>作为一个伸手党 我表示 你就是抓一坨屎我也只能吃  你满意了否？    辛苦了 站长.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4621#respond' onclick='return addComment.moveForm( "div-comment-4621", "4621", "respond", "976" )' aria-label='回复给你好'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4619" class="comment odd alt thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-4619" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/2ff15aa7c32dd618090b2ac78e0bb0e5?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/2ff15aa7c32dd618090b2ac78e0bb0e5?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">你好</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4619">
+							<time datetime="2015-12-23T20:39:39+00:00">
+								2015/12/23 20:39							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p><a href="https://www.guge.link/" rel="nofollow">https://www.guge.link/</a>  绝壁是钓鱼.    站长收钱推荐？<br />
+弹窗有， 我就不说了  。</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4619#respond' onclick='return addComment.moveForm( "div-comment-4619", "4619", "respond", "976" )' aria-label='回复给你好'>回复</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-4620" class="comment byuser comment-author-admin bypostauthor even depth-2 parent">
+			<article id="div-comment-4620" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/5f6538a47b4b4a92bac4a7bc5812471a?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/5f6538a47b4b4a92bac4a7bc5812471a?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn"><a href='http://www.itechzero.com' rel='external nofollow' class='url'>Techzero</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4620">
+							<time datetime="2015-12-23T20:41:32+00:00">
+								2015/12/23 20:41							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>最烦你们这些伸手党，装个去广告的插件能怎么样？我测试的时候难道还要把插件关掉给你测？你给钱了？</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4620#respond' onclick='return addComment.moveForm( "div-comment-4620", "4620", "respond", "976" )' aria-label='回复给Techzero'>回复</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-4622" class="comment odd alt depth-3">
+			<article id="div-comment-4622" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/b2d7d2d13aed54c2ed7feb538b382b42?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/b2d7d2d13aed54c2ed7feb538b382b42?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">自带梯子</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4622">
+							<time datetime="2015-12-23T21:14:59+00:00">
+								2015/12/23 21:14							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>伸手又懒癌，还能怪别人，我也是醉了！</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4622#respond' onclick='return addComment.moveForm( "div-comment-4622", "4622", "respond", "976" )' aria-label='回复给自带梯子'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4628" class="comment even depth-3">
+			<article id="div-comment-4628" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/0a2cde1e86a8002e83f9c1f36e956555?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/0a2cde1e86a8002e83f9c1f36e956555?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">dllen</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4628">
+							<time datetime="2015-12-24T10:51:10+00:00">
+								2015/12/24 10:51							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>顶。。。</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4628#respond' onclick='return addComment.moveForm( "div-comment-4628", "4628", "respond", "976" )' aria-label='回复给dllen'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4770" class="comment odd alt depth-3">
+			<article id="div-comment-4770" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/0ee2dbaee49971081b0572c5538ccba0?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/0ee2dbaee49971081b0572c5538ccba0?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">https://www.guge.link</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4770">
+							<time datetime="2015-12-24T22:16:27+00:00">
+								2015/12/24 22:16							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>到现在我网站没有挣过什么钱，刚有一点流量就被封了一次。 一个网站能否存活下去，与资金有关。 我可以把所有广告的钱都用在服务器上， 到现在我还是亏的， 那弹出广告价格很低。</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4770#respond' onclick='return addComment.moveForm( "div-comment-4770", "4770", "respond", "976" )' aria-label='回复给https://www.guge.link'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-4614" class="comment even thread-even depth-1">
+			<article id="div-comment-4614" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/fc0c248a9f5f9a2c59979ba3fb803a7f?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/fc0c248a9f5f9a2c59979ba3fb803a7f?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">jansen</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4614">
+							<time datetime="2015-12-23T13:57:06+00:00">
+								2015/12/23 13:57							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>不错不错，愿捐助Techzero</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4614#respond' onclick='return addComment.moveForm( "div-comment-4614", "4614", "respond", "976" )' aria-label='回复给jansen'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4607" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-4607" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/7bc6adbbf3cfe9fc1cba125414b7d50f?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/7bc6adbbf3cfe9fc1cba125414b7d50f?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">ozdoik</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4607">
+							<time datetime="2015-12-22T23:28:37+00:00">
+								2015/12/22 23:28							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>这个还不错, 原版网页  <a href="https://gsou.org" rel="nofollow">https://gsou.org</a></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4607#respond' onclick='return addComment.moveForm( "div-comment-4607", "4607", "respond", "976" )' aria-label='回复给ozdoik'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4601" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-4601" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/55163706ea37c23e8da3785932fde0ed?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/55163706ea37c23e8da3785932fde0ed?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">ninedays</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4601">
+							<time datetime="2015-12-22T17:35:29+00:00">
+								2015/12/22 17:35							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>有维基百科的吗，查些专业的东西</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4601#respond' onclick='return addComment.moveForm( "div-comment-4601", "4601", "respond", "976" )' aria-label='回复给ninedays'>回复</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-4613" class="comment odd alt depth-2">
+			<article id="div-comment-4613" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/e4a9161adcc3171d6c084fb4b231a312?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/e4a9161adcc3171d6c084fb4b231a312?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">youtubephile</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4613">
+							<time datetime="2015-12-23T10:37:19+00:00">
+								2015/12/23 10:37							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>wiki没封啊</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4613#respond' onclick='return addComment.moveForm( "div-comment-4613", "4613", "respond", "976" )' aria-label='回复给youtubephile'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-4535" class="comment even thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-4535" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/d0812baff24d2c447f229396f70f9ce1?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/d0812baff24d2c447f229396f70f9ce1?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">DUET</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4535">
+							<time datetime="2015-12-15T09:56:58+00:00">
+								2015/12/15 09:56							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>为什么同一台电脑同一个网，os系统能用win不能用…简直是出鬼了</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4535#respond' onclick='return addComment.moveForm( "div-comment-4535", "4535", "respond", "976" )' aria-label='回复给DUET'>回复</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-4543" class="comment byuser comment-author-admin bypostauthor odd alt depth-2">
+			<article id="div-comment-4543" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/5f6538a47b4b4a92bac4a7bc5812471a?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/5f6538a47b4b4a92bac4a7bc5812471a?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn"><a href='http://www.itechzero.com' rel='external nofollow' class='url'>Techzero</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4543">
+							<time datetime="2015-12-15T21:38:12+00:00">
+								2015/12/15 21:38							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>可能跟DNS有关吧</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4543#respond' onclick='return addComment.moveForm( "div-comment-4543", "4543", "respond", "976" )' aria-label='回复给Techzero'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-4520" class="comment even thread-even depth-1">
+			<article id="div-comment-4520" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/0ee2dbaee49971081b0572c5538ccba0?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/0ee2dbaee49971081b0572c5538ccba0?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">https://www.scholar.live</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4520">
+							<time datetime="2015-12-14T00:10:54+00:00">
+								2015/12/14 00:10							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p><a href="https://www.scholar.live" rel="nofollow">https://www.scholar.live</a>, 最新的学术搜索， 能不能添加</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4520#respond' onclick='return addComment.moveForm( "div-comment-4520", "4520", "respond", "976" )' aria-label='回复给https://www.scholar.live'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4414" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-4414" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/a14b13fd21b5b3539812f0b2385c7aee?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/a14b13fd21b5b3539812f0b2385c7aee?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn"><a href='https://googo.pw' rel='external nofollow' class='url'>googo.pw</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4414">
+							<time datetime="2015-12-09T13:02:17+00:00">
+								2015/12/09 13:02							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>前几天推荐列表内的googo.pw:80已被和谐，现在加上https完美访问，可以更新推荐吗？<br />
+<a href="https://googo.pw" rel="nofollow">https://googo.pw</a></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4414#respond' onclick='return addComment.moveForm( "div-comment-4414", "4414", "respond", "976" )' aria-label='回复给googo.pw'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4336" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-4336" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/91361fad03e1be16b67bc66d1fadb845?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/91361fad03e1be16b67bc66d1fadb845?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">Edmond</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4336">
+							<time datetime="2015-12-07T21:00:23+00:00">
+								2015/12/07 21:00							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>很多都覆没了！泥煤的！唉！</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4336#respond' onclick='return addComment.moveForm( "div-comment-4336", "4336", "respond", "976" )' aria-label='回复给Edmond'>回复</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-4367" class="comment odd alt depth-2">
+			<article id="div-comment-4367" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://cn.gravatar.com/avatar/0ee2dbaee49971081b0572c5538ccba0?s=32&#038;d=mm&#038;r=r' srcset='http://cn.gravatar.com/avatar/0ee2dbaee49971081b0572c5538ccba0?s=64&amp;d=mm&amp;r=r 2x' class='avatar avatar-32 photo' height='32' width='32' />						<b class="fn">hi</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-11/#comment-4367">
+							<time datetime="2015-12-08T15:33:22+00:00">
+								2015/12/08 15:33							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>搜索引擎把结果都删掉了， DNS直接屏蔽</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.itechzero.com/google-mirror-sites-collect.html?replytocom=4367#respond' onclick='return addComment.moveForm( "div-comment-4367", "4367", "respond", "976" )' aria-label='回复给hi'>回复</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		</ol>		
+				<nav id="comment-nav-below" class="comment-navigation" role="navigation">
+			<h1 class="screen-reader-text">评论导航</h1>
+			<div class="nav-links">
+				<span class="nav-previous"></span>
+				<span class="nav-next"><a href="http://www.itechzero.com/google-mirror-sites-collect.html/comment-page-10/#comments" >下一页<span class="arrow">›</span></a></span>
+			</div>
+		</nav>
+											<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/google-mirror-sites-collect.html#respond" style="display:none;">取消回复</a></small></h3>
+									<form action="http://www.itechzero.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+																			<p class="comment-notes"><span id="email-notes">电子邮件地址不会被公开。</span> 必填项已用<span class="required">*</span>标注</p>							<p class="comment-form-author"><label for="author">姓名 <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">电子邮件 <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">站点</label> <input id="url" name="url" type="url" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">评论</label> <textarea id="comment" name="comment" cols="45" rows="8"  aria-required="true" required="required"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="发表评论" /> <input type='hidden' name='comment_post_ID' value='976' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="5464467b8f" /></p><input type="checkbox" name="comment_mail_notify" id="comment_mail_notify" value="comment_mail_notify" checked="checked" style="cursor: pointer;" /><label style="line-height:27px;cursor: pointer;" for="comment_mail_notify"> 回复邮件通知</label><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="9"/></p>					</form>
+							</div><!-- #respond -->
+			</div>				</main>
+	</div>
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="text-8" class="widget widget_text"><h1 class="widget-title">提示</h1>			<div class="textwidget"><style type="text/css">#text-8{background:#09f;color:white} #text-8 a, #text-8 a:focus, #text-8 a:visited{color:#fd3} #text-8 a:hover, #text-8 a:active{color:#fb3}</style>
+<ul style="color:white">
+	<li>为保证页面浏览体验，建议使用 Internet Explorer 9.0以上版本 或 <a href="http://www.itechzero.com/google-chrome-portable.html">Google Chrome</a> 等现代浏览器。</li></ul></div>
+		</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.itechzero.com/" autocomplete="off">
+	<label>
+		<span class="screen-reader-text">搜索</span>
+		<input type="search" class="search-field" title="搜索" placeholder="搜点什么吧…" value="" name="s" />
+	</label>
+    <input type="submit" class="search-submit" value="搜索" />
+    </form></aside><aside id="views-2" class="widget widget_views"><h1 class="widget-title">热门文章</h1><ul>
+<li><a href="http://www.itechzero.com/google-mirror-sites-collect.html"  title="Google 镜像站搜集">Google 镜像站搜集</a> - 1,412,565 次阅读</li><li><a href="http://www.itechzero.com/shadowsocks/"  title="Shadowsocks">Shadowsocks</a> - 14,870 次阅读</li><li><a href="http://www.itechzero.com/chrome-extension-hongxing-modified-version.html"  title="Chrome 扩展程序 红杏 修改版">Chrome 扩展程序 红杏 修改版</a> - 13,798 次阅读</li><li><a href="http://www.itechzero.com/prevent-chrome-shielding-unofficial-extensions-tutorial.html"  title="防止 Chrome 屏蔽 非官方 扩展程序 教程">防止 Chrome 屏蔽 非官方 扩展程序 教程</a> - 13,618 次阅读</li><li><a href="http://www.itechzero.com/dns-hijacking-dns-pollution-introduction-and-public-dns-recommend.html"  title="DNS劫持 DNS污染 介绍 与 公共DNS 推荐">DNS劫持 DNS污染 介绍 与 公共DNS 推荐</a> - 11,540 次阅读</li><li><a href="http://www.itechzero.com/grab-shoes-activator.html"  title="抢鞋神器激活器">抢鞋神器激活器</a> - 7,460 次阅读</li><li><a href="http://www.itechzero.com/donate/"  title="捐助">捐助</a> - 6,343 次阅读</li><li><a href="http://www.itechzero.com/why-say-baidu-reduced-chinas-internet-experience-entirely.html"  title="为什么说百度全面降低了中国互联网体验？">为什么说百度全面降低了中国互联网体验？</a> - 6,331 次阅读</li></ul>
+</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><style type="text/css">#text-4{padding:0px;margin:-10px -10px -4px -10px;background:rgba(0, 0, 0, 0);box-shadow:none}</style>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=320 height=330 src="http://music.163.com/outchain/player?type=0&id=48481098&auto=0&height=430"></iframe></div>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">近期文章</h1>		<ul>
+					<li>
+				<a href="http://www.itechzero.com/change-windows-user-name-completely.html">彻底修改 Windows 系统用户名</a>
+							<span class="post-date">2015/12/24</span>
+						</li>
+					<li>
+				<a href="http://www.itechzero.com/spring-security-after-change-password-duplicate-username-in-online-users.html">Spring Security 修改密码后 在线用户列表中用户重复</a>
+							<span class="post-date">2015/12/24</span>
+						</li>
+					<li>
+				<a href="http://www.itechzero.com/how-to-evaluate-the-video-waterdrop.html">如何评价《三体》同人短片《Waterdrop》？</a>
+							<span class="post-date">2015/12/08</span>
+						</li>
+					<li>
+				<a href="http://www.itechzero.com/javascript-get-reverse-color-of-hex-color.html">JavaScript 获得十六进制颜色的反色</a>
+							<span class="post-date">2015/11/17</span>
+						</li>
+					<li>
+				<a href="http://www.itechzero.com/foobar2000-chinese-version.html">Foobar2000 v1.3.9 Final 汉化版</a>
+							<span class="post-date">2015/11/13</span>
+						</li>
+					<li>
+				<a href="http://www.itechzero.com/google-chrome-portable.html">谷歌浏览器 Google Chrome v46.0.2490.86 便携增强版</a>
+							<span class="post-date">2015/11/11</span>
+						</li>
+					<li>
+				<a href="http://www.itechzero.com/wordpress-plugin-zh_cn-localization-file.html">WordPress 插件 简体中文语言文件</a>
+							<span class="post-date">2015/10/18</span>
+						</li>
+					<li>
+				<a href="http://www.itechzero.com/wordpress-plugin-color-bg-tag-cloud.html">WordPress 插件 Color Bg Tag Cloud v1.00</a>
+							<span class="post-date">2015/10/15</span>
+						</li>
+				</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">分类目录</h1>		<ul>
+	<li class="cat-item cat-item-4"><a href="http://www.itechzero.com/technology/pieces/android/" >Android</a> (4)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.itechzero.com/technology/coding/c-cpp-csharp/" >C/C++/C#</a> (6)
+</li>
+	<li class="cat-item cat-item-80"><a href="http://www.itechzero.com/technology/coding/chrome/" >Chrome</a> (8)
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.itechzero.com/technology/front-end/css3/" >CSS3</a> (1)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.itechzero.com/technology/coding/java/" >Java</a> (8)
+</li>
+	<li class="cat-item cat-item-42"><a href="http://www.itechzero.com/technology/pieces/linux/" >Linux</a> (2)
+</li>
+	<li class="cat-item cat-item-108"><a href="http://www.itechzero.com/technology/coding/mysql/" >MySQL</a> (1)
+</li>
+	<li class="cat-item cat-item-54"><a href="http://www.itechzero.com/technology/coding/objective-c/" >Objective-C</a> (4)
+</li>
+	<li class="cat-item cat-item-53"><a href="http://www.itechzero.com/technology/coding/php/" >PHP</a> (1)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.itechzero.com/technology/coding/python/" >Python</a> (4)
+</li>
+	<li class="cat-item cat-item-107"><a href="http://www.itechzero.com/technology/coding/spark/" >Spark</a> (1)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.itechzero.com/technology/pieces/windows/" >Windows</a> (9)
+</li>
+	<li class="cat-item cat-item-138"><a href="http://www.itechzero.com/technology/coding/wordpress/" >WordPress</a> (3)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.itechzero.com/other/" >其他</a> (2)
+</li>
+	<li class="cat-item cat-item-47"><a href="http://www.itechzero.com/share/" >分享</a> (2)
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.itechzero.com/technology/front-end/" >前端</a> (1)
+</li>
+	<li class="cat-item cat-item-45"><a href="http://www.itechzero.com/share/tools/" >工具</a> (12)
+</li>
+	<li class="cat-item cat-item-111"><a href="http://www.itechzero.com/share/collect/" >搜集整理</a> (2)
+</li>
+	<li class="cat-item cat-item-85"><a href="http://www.itechzero.com/share/lossless-music/" >无损音乐</a> (1)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.itechzero.com/technology/network/" >网络</a> (6)
+</li>
+	<li class="cat-item cat-item-132"><a href="http://www.itechzero.com/share/devices/" >设备</a> (1)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.itechzero.com/technology/pieces/" >零碎</a> (2)
+</li>
+		</ul>
+</aside><aside id="archives-3" class="widget widget_archive"><h1 class="widget-title">文章归档</h1>		<ul>
+	<li><a href='http://www.itechzero.com/2015/12/'>2015年十二月</a>&nbsp;(3)</li>
+	<li><a href='http://www.itechzero.com/2015/11/'>2015年十一月</a>&nbsp;(3)</li>
+	<li><a href='http://www.itechzero.com/2015/10/'>2015年十月</a>&nbsp;(5)</li>
+	<li><a href='http://www.itechzero.com/2015/09/'>2015年九月</a>&nbsp;(5)</li>
+	<li><a href='http://www.itechzero.com/2015/08/'>2015年八月</a>&nbsp;(2)</li>
+	<li><a href='http://www.itechzero.com/2015/07/'>2015年七月</a>&nbsp;(1)</li>
+	<li><a href='http://www.itechzero.com/2015/06/'>2015年六月</a>&nbsp;(6)</li>
+	<li><a href='http://www.itechzero.com/2015/05/'>2015年五月</a>&nbsp;(3)</li>
+	<li><a href='http://www.itechzero.com/2015/04/'>2015年四月</a>&nbsp;(3)</li>
+	<li><a href='http://www.itechzero.com/2015/03/'>2015年三月</a>&nbsp;(1)</li>
+	<li><a href='http://www.itechzero.com/2015/02/'>2015年二月</a>&nbsp;(1)</li>
+	<li><a href='http://www.itechzero.com/2015/01/'>2015年一月</a>&nbsp;(5)</li>
+	<li><a href='http://www.itechzero.com/2014/12/'>2014年十二月</a>&nbsp;(4)</li>
+	<li><a href='http://www.itechzero.com/2014/11/'>2014年十一月</a>&nbsp;(2)</li>
+	<li><a href='http://www.itechzero.com/2014/10/'>2014年十月</a>&nbsp;(2)</li>
+	<li><a href='http://www.itechzero.com/2014/09/'>2014年九月</a>&nbsp;(1)</li>
+	<li><a href='http://www.itechzero.com/2014/08/'>2014年八月</a>&nbsp;(1)</li>
+	<li><a href='http://www.itechzero.com/2014/07/'>2014年七月</a>&nbsp;(6)</li>
+	<li><a href='http://www.itechzero.com/2014/06/'>2014年六月</a>&nbsp;(6)</li>
+	<li><a href='http://www.itechzero.com/2014/05/'>2014年五月</a>&nbsp;(11)</li>
+	<li><a href='http://www.itechzero.com/2014/04/'>2014年四月</a>&nbsp;(10)</li>
+		</ul>
+</aside><aside id="color_bg_tag_cloud-2" class="widget widget_color_bg_tag_cloud"><h1 class="widget-title">标签云</h1><div class="color-bg-tag-cloud"><div class="yahei" style="text-transform:none!important;"><a href='http://www.itechzero.com/tag/source-code/' class='cbtccyan-a tag-link-46' title='5个话题' style='font-size: 13px;'>源码</a><a href='http://www.itechzero.com/tag/java/' class='cbtcsilver-a tag-link-127' title='8个话题' style='font-size: 13px;'>Java</a><a href='http://www.itechzero.com/tag/adblock/' class='cbtcsilver-a tag-link-29' title='2个话题' style='font-size: 13px;'>广告过滤</a><a href='http://www.itechzero.com/tag/google/' class='cbtcblack-a tag-link-84' title='2个话题' style='font-size: 13px;'>Google</a><a href='http://www.itechzero.com/tag/original/' class='cbtcdefault-a tag-link-33' title='44个话题' style='font-size: 13px;'>原创</a><a href='http://www.itechzero.com/tag/ios-development-series/' class='cbtcblack-a tag-link-58' title='4个话题' style='font-size: 13px;'>iOS开发系列</a><a href='http://www.itechzero.com/tag/windows/' class='cbtcred-a tag-link-126' title='2个话题' style='font-size: 13px;'>Windows</a><a href='http://www.itechzero.com/tag/win8/' class='cbtclime-a tag-link-15' title='2个话题' style='font-size: 13px;'>Win8</a><a href='http://www.itechzero.com/tag/chrome-extension/' class='cbtcsilver-a tag-link-49' title='7个话题' style='font-size: 13px;'>Chrome扩展</a><a href='http://www.itechzero.com/tag/zhihu/' class='cbtcdefault-a tag-link-103' title='4个话题' style='font-size: 13px;'>知乎</a><a href='http://www.itechzero.com/tag/repost/' class='cbtclime-a tag-link-34' title='31个话题' style='font-size: 13px;'>转载整理</a><a href='http://www.itechzero.com/tag/solution/' class='cbtcblue-a tag-link-16' title='11个话题' style='font-size: 13px;'>解决方法</a><a href='http://www.itechzero.com/tag/wordpress/' class='cbtcblack-a tag-link-71' title='3个话题' style='font-size: 13px;'>WordPress</a><a href='http://www.itechzero.com/tag/tutorial/' class='cbtcsilver-a tag-link-41' title='21个话题' style='font-size: 13px;'>教程</a><a href='http://www.itechzero.com/tag/mirror/' class='cbtcsilver-a tag-link-105' title='3个话题' style='font-size: 13px;'>镜像</a><a href='http://www.itechzero.com/tag/me/' class='cbtcsilver-a tag-link-23' title='1个话题' style='font-size: 13px;'>Me</a><a href='http://www.itechzero.com/tag/green-software/' class='cbtcgreen-a tag-link-95' title='7个话题' style='font-size: 13px;'>绿色软件</a><a href='http://www.itechzero.com/tag/ffmpeg/' class='cbtcred-a tag-link-69' title='2个话题' style='font-size: 13px;'>FFmpeg</a><a href='http://www.itechzero.com/tag/internet/' class='cbtcsilver-a tag-link-104' title='3个话题' style='font-size: 13px;'>互联网</a><a href='http://www.itechzero.com/tag/android/' class='cbtccyan-a tag-link-112' title='3个话题' style='font-size: 13px;'>Android</a><a href='http://www.itechzero.com/tag/win7/' class='cbtcdefault-a tag-link-24' title='1个话题' style='font-size: 13px;'>Win7</a><a href='http://www.itechzero.com/tag/blog/' class='cbtclime-a tag-link-121' title='2个话题' style='font-size: 13px;'>Blog</a><a href='http://www.itechzero.com/tag/collection/' class='cbtcblack-a tag-link-117' title='2个话题' style='font-size: 13px;'>Collection</a><a href='http://www.itechzero.com/tag/csharp/' class='cbtccyan-a tag-link-44' title='4个话题' style='font-size: 13px;'>C#</a><a href='http://www.itechzero.com/tag/crxmouse/' class='cbtcdefault-a tag-link-52' title='2个话题' style='font-size: 13px;'>CrxMouse</a><a href='http://www.itechzero.com/tag/python/' class='cbtcdefault-a tag-link-128' title='4个话题' style='font-size: 13px;'>Python</a><a href='http://www.itechzero.com/tag/eclipse/' class='cbtcdefault-a tag-link-40' title='2个话题' style='font-size: 13px;'>Eclipse</a><a href='http://www.itechzero.com/tag/host/' class='cbtcgreen-a tag-link-123' title='2个话题' style='font-size: 13px;'>主机</a><a href='http://www.itechzero.com/tag/ie11/' class='cbtclime-a tag-link-14' title='1个话题' style='font-size: 13px;'>IE11</a></div></div></aside><aside id="text-3" class="widget widget_text"><h1 class="widget-title">链接</h1>			<div class="textwidget"><style type="text/css">#text-3{display:block}</style>
+<ul class="widget_links">
+	<li><a href="http://www.appcgn.com/" rel="external" target="_blank">软件缘</a></li>
+	<li><a href="http://edmag.net/" rel="external nofollow" target="_blank">EDMAG</a></li>
+	<li><a href="http://www.axiangblog.com/" rel="external" target="_blank">阿象博客</a></li>
+	<li><a href="http://www.365cent.com/" rel="external" target="_blank">每讯首页</a></li>
+	<li><a href="http://www.iteknical.com/" rel="external nofollow" target="_blank">iTeknical</a></li>
+	<li><a href="http://www.sekureco.org/" rel="external nofollow" target="_blank">Sekureco</a></li>
+	<li><a href="http://www.gochrome.info/" rel="external nofollow" target="_blank">Chrome资源</a></li>
+	<li><a href="http://moecao.com/" rel="external nofollow" target="_blank">萌草酱资源共享</a></li>
+	<li><a href="http://msdn.itechzero.com/" rel="external nofollow" target="_blank">MSDN 我告诉你</a></li>
+</ul></div>
+		</aside><aside id="statistics" class="widget widget_statistics"><h1 class="widget-title">站点统计</h1><ul><li>文章总数：81 篇</li><li>页面总数：13 个</li><li>评论总数：710 条</li><li>分类总数：29 个</li><li>标签总数：102 个</li><li>运行天数：628 天</li><li class="pv">访问总数：1,579,015 次</li></ul></aside>	</div>	</div>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			Copyright © 2014-2015 <a href="http://www.itechzero.com/">Techzero</a>. All Rights Reserved.<br/>
+			<a href="http://www.itechzero.com/sitemap_index.xml">站点</a><a href="http://www.itechzero.com/sitemap.xml">地</a><a href="http://www.itechzero.com/sitemap.html">图</a> | <a href="http://www.itechzero.com/links/">友情链接</a><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan style='display:none' id='cnzz_stat_icon_1000356210'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000356210' type='text/javascript'%3E%3C/script%3E"));</script><br/>
+			Powered by <a href="http://www.itechzero.com/go/wordpress/" target="_blank" title="Code is Poetry">WordPress</a> with <a href="http://www.itechzero.com/" target="_blank" title="Theme by Techzero">Simpler</a> on <a href="http://www.itechzero.com/go/conoha/" target="_blank" title="ConoHa">ConoHa</a>.
+		</div>
+	</footer>
+</div>
+<div class="nmplaybar"><div class="nmplayer-prosess"></div><div class="nmplayer-wrap"><div class="nmplayer-info"><span class="nmplayer-title"></span><span class="nmplayer-time"></span><span class="nmplayer-lrc"></span></div><div class="nmplayer-control">
+<ul>
+<li>
+<a id="nmplayer-prev" href="javascript:;">
+<span class="nm-previous fxfont "></span>
+</a>
+</li>
+<li>
+<a id="nmplayer-button" href="javascript:;">
+<span class="nm-pause fxfont "></span>
+</a>
+</li>
+<li>
+<a id="nmplayer-next" href="javascript:;">
+<span class="nm-next fxfont"></span>
+</a>
+</li>
+</ul>
+</div></div></div><div id="jp_container_N" style="display:none"><div id="jquery_jplayer_N" style="display:none"><div class="jp-playlist"><ul class=""><li></li></ul></div></div></div>
+<script>var zoomImagesBase = '/wp-content/plugins/wp-fancyzoom/';</script>
+<script src='/wp-content/plugins/wp-fancyzoom/js-global/FancyZoom.js'></script>
+<script src='/wp-content/plugins/wp-fancyzoom/js-global/FancyZoomHTML.js'></script>
+<script src='/wp-content/plugins/wp-fancyzoom/adddomloadevent.js'></script>
+<script>addDOMLoadEvent(setupZoom);</script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.6'></script>
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='http://www.itechzero.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"http:\/\/www.itechzero.com\/wp-admin\/admin-ajax.php","post_id":"976"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68'></script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-content/themes/Simpler/js/customizer.js?ver=20150201'></script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-includes/js/comment-reply.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mv_dynamic_to_top = {"text":"To Top","version":"0","min":"300","speed":"800","easing":"easeInExpo","margin":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-content/plugins/dynamic-to-top/js/dynamic.to.top.min.js?ver=3.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nm_ajax_url = {"ajax_url":"http:\/\/www.itechzero.com\/wp-admin\/admin-ajax.php","swfurl":"http:\/\/www.itechzero.com\/wp-content\/plugins\/netease-music\/static\/css\/Jplayer.swf.css","nonce":"c79ba9a24e","tworow":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-content/plugins/netease-music/static/js/base.js?ver=1.9.0'></script>
+<script type='text/javascript' src='http://www.itechzero.com/wp-content/plugins/netease-music/static/js/page.js?ver=1.9.0'></script>
+</body>
+</html>
+<!-- Dynamic page generated in 0.301 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-24 22:18:11 -->
+
+<!-- Super Cache dynamic page detected but late init not set. See the readme.txt for further details. -->
+<!-- Dynamic Super Cache -->

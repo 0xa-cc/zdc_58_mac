@@ -1,0 +1,1 @@
+./configure --prefix=/usr/local/coreseek  --without-unixodbc --with-mmseg --with-mmseg-includes=/usr/local/mmseg3/include/mmseg/ --with-mmseg-libs=/usr/local/mmseg3/lib/ --with-mysql --with-mysql-includes=/usr/local/Cellar/mysql/5.7.9/include/mysql --with-mysql-libs=/usr/local/Cellar/mysql/5.7.9/lib
