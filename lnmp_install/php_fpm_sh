@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/local/sbin/php-fpm -c /private/etc/php.ini.default -y /private/etc/php-fpm.conf.default -D

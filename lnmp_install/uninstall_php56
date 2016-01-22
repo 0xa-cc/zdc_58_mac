@@ -1,0 +1,6 @@
+#!/bin/bash
+list=$(brew list|grep php56);
+for item in $list
+do
+	brew uninstall $item;
+done

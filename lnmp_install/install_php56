@@ -1,0 +1,18 @@
+#!/bin/bash
+brew install php56  --without-snmp  --without-apache  --with-fpm  --with-intl  --with-homebrew-curl --with-homebrew-libxslt  --with-homebrew-openssl  --with-imap  --with-mysql  --with-tidy 
+brew install php56-apcu
+brew install php56-gearman
+brew install php56-igbinary
+brew install php56-imagick
+brew install php56-mcrypt
+brew install php56-memcache
+brew install php56-memcached
+brew install php56-mongo
+brew install php56-msgpack
+brew install php56-opcache
+brew install php56-phalcon
+brew install php56-redis
+brew install php56-thrift
+brew install php56-tidy
+brew install php56-xdebug
+brew install php56-xhprof

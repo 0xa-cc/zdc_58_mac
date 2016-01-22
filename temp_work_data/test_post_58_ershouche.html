@@ -1,13 +1,13 @@
 <html>
 <body>
-<form action='http://openapi.58.com/oauth2/access_token' method='post' target=''>
+<form enctype="multipart/form-data" action='http://localhost:8080/test.php' method='post' target=''>
 code:<input type='text'  value='747191b63f96df97b5b2179d882340b3'  name='code' /><br/>
 grant_type:<input type='text'  value='authorization_code'  name='grant_type' /><br/>
 redirect_uri:<input type='text'  value='http://bj.ganji.com/ershouche/'  name='redirect_uri' /><br/>
 time_sign:<input type='text'  value='1451443714000'  name='time_sign' /><br/>
 client_id:<input type='text'  value='36332768140033'  name='client_id' /><br/>
 client_secret:<input type='text'  value='5350876991166b467b29056fd56cb6ec'  name='client_secret' /><br/>
-
+file:<input type='file' multiple="multiple"  name='pic[]'/>
 <input type='submit' />
 </form>
 </body>

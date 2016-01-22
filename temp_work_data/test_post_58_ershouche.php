@@ -6,10 +6,11 @@
 2,http://openapi.58.com/oauth2/authorize?client_id=36332768140033&redirect_uri=http://bj.ganji.com/ershouche/&response_type=code
 3,发布测试工具 http://post.58.com/service/fabu/openapi/?source=car
 */
-
+ignore_user_abort(TRUE);//如果客户端断开连接，不会引起脚本abort
+set_time_limit(0);//取消脚本执行延时上限
 
 class  OpenApi58 {
-    private  $code='451e13d6eba7213ef3bed7a50aaacb9';
+    private  $code='4d7fa281653c89cbec1178b0939ae570';
     private  $redirect_uri='http://bj.ganji.com/ershouche/';
     private  $client_id='36332768140033';
     private  $client_secret='smgQPQsePZldG8sPwzj6';//=md5('smgQPQsePZldG8sPwzj6'.'openapi.58.com'.$time_sign);
@@ -62,6 +63,8 @@ class  OpenApi58 {
 		<para name="apilaiyuan" value="1"/>
 		<para name="apiedit" value="1"/>
 		<para name="type" value="0"/>
+		<para name="Vin" value="1G1BL52P7TR115520"/>
+
 		<para name="gobquzhi" value="zimu=F&amp;brand=%E4%B8%B0%E7%94%B0&amp;chexi=%E9%94%90%E5%BF%97&amp;objecttype=%E8%BD%BF%E8%BD%A6&amp;displacement=2.5&amp;gearbox=%E8%87%AA%E5%8A%A8&amp;shangshishijian=2008&amp;tingshoushijian=2009&amp;zbjcfanwei=1&amp;yczb_cheling=2&amp;yczb_licheng=5&amp;madein=%E5%90%88%E8%B5%84&amp;chexibieming=%E4%B8%B0%E7%94%B0%E9%94%90%E5%BF%97&amp;rundistanceqj=8-12%E4%B8%87%E5%85%AC%E9%87%8C&amp;chelingqj=3-5%E5%B9%B4&amp;buytime=2008%E5%B9%B4&amp;shangpaiyuefen=6%E6%9C%88&amp;baoyang=%E6%98%AF&amp;shiguqk=%E6%97%A0&amp;cheshenyanse=%E9%93%B6%E8%89%B2&amp;minpriceqj=40%E4%B8%87%E4%BB%A5%E4%B8%8A&amp;cateapplyed=29&amp;localapplyed=4"/>
 EOF;
         $content=<<<EOF
@@ -70,7 +73,7 @@ EOF;
 
         $data=array(
             'cate_id'=>'29',
-            'local_id'=>'158',
+            'local_id'=>'1',
             'title'=>'丰田锐志 2008款 2.5V 豪华版 2008年上牌-全网最实惠价+物超所值+清仓价',
             'content'=>$content,//'58技术openapi 测试   2014年6月份上牌、一手车、保险和年审都到2018年6月份',
             'phone'=>'13021939679',
@@ -92,7 +95,7 @@ EOF;
     }
 
     public function getAccessToken(){
-        return json_decode('{"uid":"25941852915718","expires_in":"365","refresh_token":"9ab947e2bbec88878c2242db9e899a1_v1","access_token":"439eef837aaf478b4f4161fff9910_v1"}',true);
+        return json_decode('{"uid":"28608238252551","expires_in":"365","refresh_token":"abac75e87cb68afe812dc61c62615_v1","access_token":"a2e21aed2a101c8d1e1c807c6d89b566_v1"}',true);
         $access_token_url='http://openapi.58.com/oauth2/access_token';
 
         $time_sign=time()*1000;
